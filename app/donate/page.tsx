@@ -1,7 +1,5 @@
 import DonationForm from "./donation-form"
 
-export const dynamic = "force-dynamic"
-
 export default function DonatePage() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-white to-emerald-50 dark:from-slate-950 dark:to-emerald-950/20">
